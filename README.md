@@ -1,1 +1,2 @@
 I developed a React.js website called "Crypto-Currency Tracker," which primarily retrieves crypto data from the CoinStats API. In this project, I utilized React Axios, which offers simple and secure HTTP requests. React's useState hook is employed to monitor input data, while the data from the API is fetched using the fetch() method. For authentication with the CoinStats API endpoint, I utilized my API key.
+Watch my project Live : https://deepak2509.github.io/reacts_crypto/
